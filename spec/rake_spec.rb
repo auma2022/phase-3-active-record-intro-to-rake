@@ -1,4 +1,5 @@
-require 'rake'
+
+     require 'rake'
 
 describe "Rakefile" do
   before(:all) do
